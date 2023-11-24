@@ -10,7 +10,7 @@ This project is a simple npm package for generating random dice values.
 
 ## 👤 Author
 
-**Your Name**
+Saim Tasleem
 - GitHub: https://github.com/SaimTasleem111
 
 # 🤝 Contributing
